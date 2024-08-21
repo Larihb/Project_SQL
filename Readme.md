@@ -1,8 +1,9 @@
 # Project: Inventory optimization for Mint Classics Company
------------------------------------------------------------------------------------------------------
+
 ## Project scenario:
 
-# Objective: The primary goal is to analyze the warehouse inventory and sales data for Mint Classics Company to identify inefficiencies and provide recommendations for optimizing inventory management. The project involves determining if closing a warehouse would be beneficial and assessing product viability.
+# Objective: 
+The primary goal is to analyze the warehouse inventory and sales data for Mint Classics Company to identify inefficiencies and provide recommendations for optimizing inventory management. The project involves determining if closing a warehouse would be beneficial and assessing product viability.
 -----------------------------------------------------------------------------------------------------
 
 # Summary:
