@@ -4,7 +4,6 @@
 
 ### Objective: 
 The primary goal is to analyze the warehouse inventory and sales data for Mint Classics Company to identify inefficiencies and provide recommendations for optimizing inventory management. The project involves determining if closing a warehouse would be beneficial and assessing product viability.
------------------------------------------------------------------------------------------------------
 
 ### Summary:
 This project focuses on optimizing the inventory management of Mint Classics Company by analyzing warehouse efficiency and product sales data. The goal was to identify underperforming assets, specifically targeting warehouses and products that could be phased out to reduce costs and improve overall performance.
@@ -14,8 +13,6 @@ Through detailed analysis, it was determined that Warehouse B (East) should be c
 
 ### Approach:
 The project commenced with the importation of warehouse and sales data using MySQL Workbench. SQL queries were then employed to assess inventory levels and sales performance across all warehouses. The analysis revealed discrepancies in sales efficiency, particularly in Warehouse B, which led to a deeper investigation into its potential for closure. A what-if analysis was also conducted to predict the impact of redistributing inventory from Warehouse B. The findings support the recommendation to close this warehouse and discontinue underperforming products like the 1985 Toyota Supra, aiming to reduce storage costs while maintaining customer service standards.
-
------------------------------------------------------------------------------------------------------
 
 Skills demonstrated: 
 - SQL querying and data analysis
